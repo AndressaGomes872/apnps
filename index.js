@@ -6,5 +6,5 @@ res.send("Olá Andressa")
 })
 
 app.listen(3000,function(){
-    console.log("Conexão Inicializada na porta 3000")
+    console.log("Conexão Inicializada")
 })
